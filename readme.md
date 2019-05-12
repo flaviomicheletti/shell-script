@@ -1,3 +1,5 @@
+![aqui era para ter uma figura, mas deu um crash](bash.png)
+
 # My first steps with shell sripts
 
 Se tem uma sintaxe que me agrada é a do shel script.
