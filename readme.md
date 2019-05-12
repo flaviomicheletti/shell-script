@@ -1,12 +1,12 @@
 # My first steps with shell sripts
 
-![aqui era para ter uma figura, mas deu um crash](shell-100.png)
-
 Se tem uma sintaxe que me agrada é a do shel script.
 
 Sempre tive vontade de aprender mais sobre esse mundo.
 
 Aqui começa a jornada!
+
+![aqui era para ter uma figura, mas deu um crash](shell-100.png)
 
 
 ### Comecei com os teste unitários
