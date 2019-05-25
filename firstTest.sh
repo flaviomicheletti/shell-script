@@ -4,6 +4,8 @@
 
 function testWeCanWriteTests () {
     assertEquals "it works" "it works"
+    assertEquals 1 1    
+    assertNotEquals 1 2    
 }
 
 ## Call and Run all Tests
