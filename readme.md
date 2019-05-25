@@ -27,7 +27,7 @@ Talvez você tenha que dar permissão de execução `chmod 775 nome-do-arquivo`.
 
 ### unit test framework
 
-Framewor de teste utilizado...
+Framework de teste utilizado...
 
 https://github.com/kward/shunit2
 
