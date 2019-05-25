@@ -1,4 +1,4 @@
-![aqui era para ter uma figura, mas deu um crash](bash.png)
+![aqui era para ter uma figura, mas deu um crash](imgs/bash.png)
 
 # My first steps with shell sripts
 
@@ -8,7 +8,7 @@ Sempre tive vontade de aprender mais sobre esse mundo.
 
 Aqui começa a jornada!
 
-![aqui era para ter uma figura, mas deu um crash](shell-100.png)
+![aqui era para ter uma figura, mas deu um crash](imgs/shell-100.png)
 
 
 ### Comecei com os teste unitários
@@ -26,4 +26,11 @@ Clone o repositório e ...
     ./firstTest.sh
 
 Talvez você tenha que dar permissão de execução `chmod 775 nome-do-arquivo`.
+
+
+### unit test framework
+
+Framewor de teste utilizado...
+
+https://github.com/kward/shunit2
 
